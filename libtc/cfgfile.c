@@ -8,8 +8,6 @@
  * for details.
  */
 
-#define _ISOC99_SOURCE  /* needed by glibc to declare strtof() */
-
 #include "transcode.h"
 #include "libtc.h"
 #include "cfgfile.h"
