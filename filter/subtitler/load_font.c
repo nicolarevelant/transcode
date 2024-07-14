@@ -48,7 +48,7 @@ Artur Zaprzala <zybi@fanthom.irc.pl>
 #include <ft2build.h>
 #include FT_FREETYPE_H
 
-#include <freetype/ftglyph.h>
+#include <freetype2/freetype/ftglyph.h>
 
 /**
  * @file bswap.h
